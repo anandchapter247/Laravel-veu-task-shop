@@ -1,0 +1,317 @@
+{
+    "status": "200",
+    "allProduct": {
+        "current_page": 1,
+        "data": [
+            {
+                "id": 1,
+                "name": "commodi",
+                "price": 35.73,
+                "description": "Consequatur non asperiores quisquam atque ipsam accusantium. Est repellendus eius voluptates sapiente in. Cum quam voluptatum recusandae ullam. Et provident dolorum delectus commodi.",
+                "category_id": 1,
+                "available": 1,
+                "category": {
+                    "id": 1,
+                    "name": "Home"
+                }
+            },
+            {
+                "id": 2,
+                "name": "dolores",
+                "price": 91.31,
+                "description": "Dolorem eveniet labore aliquam distinctio. Ea esse voluptas quas. Aut soluta autem unde hic nam. Deserunt eveniet sed autem voluptas amet asperiores vero. Sunt suscipit eaque quidem.",
+                "category_id": 2,
+                "available": 1,
+                "category": {
+                    "id": 2,
+                    "name": "Pet supplies"
+                }
+            },
+            {
+                "id": 3,
+                "name": "accusantium",
+                "price": 58.37,
+                "description": "Impedit a est sint enim atque saepe quos. Omnis et possimus itaque quasi libero voluptas sequi. Iusto similique porro non quo temporibus molestias dolores sed. Et rerum aperiam similique esse impedit dolorem eum.",
+                "category_id": 3,
+                "available": 1,
+                "category": {
+                    "id": 3,
+                    "name": "Sports"
+                }
+            },
+            {
+                "id": 4,
+                "name": "quisquam",
+                "price": 57.89,
+                "description": "Nulla accusantium et suscipit excepturi. Qui aspernatur provident ipsa recusandae qui. Quae quo occaecati est sapiente et nisi autem occaecati.",
+                "category_id": 4,
+                "available": 1,
+                "category": {
+                    "id": 4,
+                    "name": "Fashion"
+                }
+            },
+            {
+                "id": 5,
+                "name": "et",
+                "price": 20.59,
+                "description": "Est qui et impedit sunt ducimus nulla sit. Ipsa magnam sequi soluta quia sed dolor qui. Amet facere vero perferendis eos voluptatibus aut error nihil.",
+                "category_id": 5,
+                "available": 1,
+                "category": {
+                    "id": 5,
+                    "name": "Office"
+                }
+            },
+            {
+                "id": 6,
+                "name": "et",
+                "price": 68.89,
+                "description": "Consectetur dolores natus esse consequuntur. Quo et eius perferendis porro. Facilis sint beatae inventore ipsa officia aspernatur quasi. Ut recusandae dignissimos nemo dicta quia non magnam qui.",
+                "category_id": 1,
+                "available": 1,
+                "category": {
+                    "id": 1,
+                    "name": "Home"
+                }
+            },
+            {
+                "id": 7,
+                "name": "et",
+                "price": 19.37,
+                "description": "Porro placeat molestiae quo quia. Sed esse numquam aspernatur ut animi delectus ut. Omnis molestiae est voluptates non. Et hic eaque eum autem id.",
+                "category_id": 2,
+                "available": 1,
+                "category": {
+                    "id": 2,
+                    "name": "Pet supplies"
+                }
+            },
+            {
+                "id": 8,
+                "name": "rerum",
+                "price": 44.84,
+                "description": "Sint reprehenderit omnis et corrupti. Deleniti ullam facere eveniet aut aut minus laudantium. Dolor sint modi nemo culpa velit.",
+                "category_id": 3,
+                "available": 1,
+                "category": {
+                    "id": 3,
+                    "name": "Sports"
+                }
+            },
+            {
+                "id": 9,
+                "name": "aut",
+                "price": 46.98,
+                "description": "Officia perspiciatis optio aut perspiciatis aut quis commodi. Possimus consequatur optio aut mollitia.",
+                "category_id": 4,
+                "available": 1,
+                "category": {
+                    "id": 4,
+                    "name": "Fashion"
+                }
+            },
+            {
+                "id": 10,
+                "name": "nobis",
+                "price": 65.46,
+                "description": "Accusamus officiis laboriosam voluptas. Explicabo aut rerum qui qui ipsa.",
+                "category_id": 5,
+                "available": 1,
+                "category": {
+                    "id": 5,
+                    "name": "Office"
+                }
+            },
+            {
+                "id": 11,
+                "name": "dolore",
+                "price": 38.97,
+                "description": "Nihil ut fuga eos quo cupiditate quia voluptatum. Vitae natus inventore ea minima corporis omnis.",
+                "category_id": 1,
+                "available": 1,
+                "category": {
+                    "id": 1,
+                    "name": "Home"
+                }
+            },
+            {
+                "id": 12,
+                "name": "odit",
+                "price": 32.6,
+                "description": "Cupiditate laboriosam consequatur non laborum in. Ab harum vero perspiciatis nulla saepe. Rerum inventore rerum possimus et. Et et maxime mollitia ullam asperiores.",
+                "category_id": 2,
+                "available": 1,
+                "category": {
+                    "id": 2,
+                    "name": "Pet supplies"
+                }
+            },
+            {
+                "id": 13,
+                "name": "tempore",
+                "price": 29.8,
+                "description": "Alias qui voluptatem placeat harum. Ratione sint occaecati recusandae voluptatem ut. Ex mollitia assumenda rerum fuga repellat quia. Ex eius assumenda nesciunt fugit sed.",
+                "category_id": 3,
+                "available": 1,
+                "category": {
+                    "id": 3,
+                    "name": "Sports"
+                }
+            },
+            {
+                "id": 14,
+                "name": "modi",
+                "price": 31.51,
+                "description": "Ut quo eum dolores ipsum et modi. Ut aut fugiat repudiandae voluptates. Reiciendis eligendi quia dolore minus. Aspernatur fuga voluptates animi.",
+                "category_id": 4,
+                "available": 1,
+                "category": {
+                    "id": 4,
+                    "name": "Fashion"
+                }
+            },
+            {
+                "id": 15,
+                "name": "distinctio",
+                "price": 60.31,
+                "description": "Iusto nemo quis dicta ea. Saepe officia quibusdam blanditiis consequatur.",
+                "category_id": 5,
+                "available": 1,
+                "category": {
+                    "id": 5,
+                    "name": "Office"
+                }
+            },
+            {
+                "id": 16,
+                "name": "natus",
+                "price": 62.67,
+                "description": "Aut voluptas enim ea nihil. Aut velit provident maxime quos sunt. Ut sit voluptas et tenetur vel doloremque unde. Repellat et ratione nihil et id velit possimus.",
+                "category_id": 1,
+                "available": 1,
+                "category": {
+                    "id": 1,
+                    "name": "Home"
+                }
+            },
+            {
+                "id": 17,
+                "name": "rerum",
+                "price": 54.62,
+                "description": "Porro omnis nihil laboriosam ullam rem ab beatae. Ut tempora officiis iure magni molestiae qui. Aspernatur sunt eum incidunt temporibus ipsam autem et. Quo et dolor unde dolore sapiente animi.",
+                "category_id": 2,
+                "available": 1,
+                "category": {
+                    "id": 2,
+                    "name": "Pet supplies"
+                }
+            },
+            {
+                "id": 18,
+                "name": "aut",
+                "price": 22.51,
+                "description": "Accusamus possimus quae voluptatum et. Error quod qui dicta impedit cupiditate debitis nemo distinctio. Sint iste eveniet placeat laboriosam ut itaque. Aperiam culpa quidem magni ut autem.",
+                "category_id": 3,
+                "available": 1,
+                "category": {
+                    "id": 3,
+                    "name": "Sports"
+                }
+            },
+            {
+                "id": 19,
+                "name": "doloribus",
+                "price": 26.63,
+                "description": "Sunt voluptas commodi facilis quis explicabo voluptas consequuntur voluptatum. Enim similique non harum doloribus. Non consequatur iste et.",
+                "category_id": 4,
+                "available": 1,
+                "category": {
+                    "id": 4,
+                    "name": "Fashion"
+                }
+            },
+            {
+                "id": 20,
+                "name": "provident",
+                "price": 57.16,
+                "description": "Eaque rerum beatae non minima cum ipsa neque. Eveniet qui voluptatum reiciendis ratione voluptas sed impedit. Doloremque velit corrupti veritatis ad architecto.",
+                "category_id": 5,
+                "available": 1,
+                "category": {
+                    "id": 5,
+                    "name": "Office"
+                }
+            }
+        ],
+        "first_page_url": "http:\/\/127.0.0.1:8001\/api\/product?page=1",
+        "from": 1,
+        "last_page": 5,
+        "last_page_url": "http:\/\/127.0.0.1:8001\/api\/product?page=5",
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "http:\/\/127.0.0.1:8001\/api\/product?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "http:\/\/127.0.0.1:8001\/api\/product?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": "http:\/\/127.0.0.1:8001\/api\/product?page=3",
+                "label": "3",
+                "active": false
+            },
+            {
+                "url": "http:\/\/127.0.0.1:8001\/api\/product?page=4",
+                "label": "4",
+                "active": false
+            },
+            {
+                "url": "http:\/\/127.0.0.1:8001\/api\/product?page=5",
+                "label": "5",
+                "active": false
+            },
+            {
+                "url": "http:\/\/127.0.0.1:8001\/api\/product?page=2",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "http:\/\/127.0.0.1:8001\/api\/product?page=2",
+        "path": "http:\/\/127.0.0.1:8001\/api\/product",
+        "per_page": 20,
+        "prev_page_url": null,
+        "to": 20,
+        "total": 100
+    },
+    "allCategory": [
+        {
+            "id": 1,
+            "name": "Home"
+        },
+        {
+            "id": 2,
+            "name": "Pet supplies"
+        },
+        {
+            "id": 3,
+            "name": "Sports"
+        },
+        {
+            "id": 4,
+            "name": "Fashion"
+        },
+        {
+            "id": 5,
+            "name": "Office"
+        }
+    ]
+}
