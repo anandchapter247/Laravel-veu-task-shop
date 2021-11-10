@@ -39,11 +39,17 @@ class ProductController extends Controller
             if( $request->has('availability') && $request['availability'] != '' ){
                 $allProduct = $allProduct->where('available',$request['availability']);
             } 
-            $allProduct = $allProduct->paginate($request['limit'] ?? 20)->toArray();
+            $allProduct = $allProduct->paginate($request['limit'] ?? 20);
+            $min = $allProduct->min('price');
+            $max = $allProduct->max('price');
+            $allProduct = $allProduct->toArray();
+
         return response()->json([ 
                 'status'=>'200',
                 'data' => $allProduct['data'],
-                'totalRecord'=>$allProduct['total']
+                'totalRecord'=>$allProduct['total'],
+                'min'=>$min,
+                'max'=>$max
             ]);
     }
 
@@ -71,7 +77,7 @@ class ProductController extends Controller
 
     /**
      * Display the specified resource.
-     *
+     *1
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
